@@ -17,6 +17,8 @@ The dataset includes the following fields:
 - Number of Shares: Total shares owned
 - % of Total Portfolio: Weight of each investment in the portfolio
 
+The dataset is scrapped from <a href="https://buffett.online/">buffett.online</a>
+
 ## Screenshots
 
 ![](s1.png)
